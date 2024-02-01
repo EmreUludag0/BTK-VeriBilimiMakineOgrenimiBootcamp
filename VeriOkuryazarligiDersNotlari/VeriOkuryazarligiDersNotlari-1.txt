@@ -1,0 +1,64 @@
+VERİ OKURYAZARLIĞI NEDİR?
+
+*veri okunması, yazılması, belirli bir bağlam üzerinde tartışmaya açılmasıdır.
+*verinin kaynağı da göz önünde bulundurarak verinin nasıl işlenmesi gerektiği
+oluşturulmasıdır
+*manipüle edilmiş verinin farkına varılması, bu gibi istismarlara karşı dikkatli 
+ve uyanık olunması
+*Grafiklerin nasıl okunacağının bilinmesi, buradan nasıl bulgular çıkarılacağına 
+ve yargılara varılacağını hakim olunması
+
+VERİ ANALİSTİ:
+. Kurumda veri sorgulayabilen ve işleyebilen, raporlar sunan, verileri özetleyen
+görselleştirebilen deneyimli veri uzmanı.
+. Bir sorunu çözmek için mevcut araç ve yöntemlerden nasıl yararlanacağına dair
+güçlü bir anlayışa sahiptir.
+. Kurun genelindeki kişilerin geçici raporlar ve çizelgelerle spesifik sorguları 
+anlamalarına yardımcı olur
+. İstatistik, veri akışı, veri görselleştirme, keşifsel veri analizi bazı temel
+becerilerde bilgili olmaları beklenmekterir
+
+İş Zekası Geliştiricisi:
+* Raporlama ihtiyaçlarını anlmaka ve kurum için iş zekası ve raporlama çözümleri 
+oluşturmak, gereksinimleri toplamak, tasarlamak ve oluşturmak için iç paydaşlara
+daha yakından etkileşimde bulunan veri uzmanı
+*Yeni ve mevcut veri ambarlarını, ETL paketlerini, küpleri gösterge tablolarını 
+ve analitik raporları tasarlamak, geliştirmek ve desteklemek zorundadır.
+* ek olarak hem ilişkisek hem de çok boyutlu veri tabanları ile çalışır ve farklı 
+kaynaklardan gelen verileri entegre etmek için sql geliştme becelerine sahip olmalıdır.
+*Genellikle veri analizi yapması beklenmemektedir.
+
+
+VERİ MÜHENDİSİ:
+. Veri bilimcileri tarafından analiz edecek "büyük veri" altyapısını hazırlayan veri uzmanı
+. Çeşitli kaynaklardan veri tasarlayan, derleyen, birleştiren ve büyük veriyi yönetir
+
+
+VERİ BİLİMCİSİ:
+* Ham verileri arıtılmış içgörülere dönüştürebilir
+* kritik iş problemlerini çözmek için istatistik, makine öğrenmesi ve analitik yaklaşımlar 
+uygular.
+* öncelikli işlevi, kuruluşlarının büyük veri hacimlerini değerli ve eyleme geçirilebilir
+içgörülere dönüştürmelerine yardımcı olmaktır.
+* veri analitik becelerine ek olarak, güçlü programlama becerilerine, yeni algoritme tasarlama
+becerisine, büyük veriyi ele alma ve alan bilgisinde bazı uzmanlıklara sahip olması beklenmektedir
+* ayrıca, bulguların sonuçlarını görselleştirme tekniklerini kullanarak, veri bilimi uygulamalarını
+oluşturarak ya da veri sorunlarını çözümleriyle ilgili ilginç hikayeler anlatarak yorumlaması
+ve sunması beklenir.
+* farklı boyut ve şekillerde farklı veri kümeleriyle çalışma deneyimine sahip olmalsı ve
+algoritmalarını büyük boyutlu veriler üzerinde etkin ve verimli bir şekilde çalıştırabilmedilir
+*Python, R, Scala, Apache Spark, Hadoop, makine öğrenmesi, derin öğrenme ve istatistik konularında
+yetkin olmalıdır.
+
+
+
+
+
+
+
+
+
+
+
+
+

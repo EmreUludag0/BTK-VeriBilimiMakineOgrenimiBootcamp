@@ -1,0 +1,68 @@
+		GRAFİK TÜRLERİ
+
+*Bağımsız Değişkenler:
+ Bilim insanı veya araştırmacı tarafından değiştirilen nitelik/nicelik
+. Genellikle bir anda (deney veya bir gözlem esnasında) sadece bir adet
+. Neden?
+
+
+*Bağımlı Değişken:
+ Bilim insanı veya araştırmacı tarafından bağpısız değişken değiştirilirken;
+olası değişimleri gözlemlenen nitelik(ler)/nicelik(ler)
+
+
+Kontrol Altında Tutulan Değişken:
+ Tüm deneyler/gözlemler esnasında; bilim insaı veya araştırmacı tarafından
+sabit tutulmaya çalışılan nitelikler/nicelikler
+
+*Popülasyon(Population):
+ 	Hedeflenen ve üzerinde çalışılan ana kitle
+*Örneklem(Sample):
+ 	popülasyondan çekilen alt küme
+
+
+
+Tümevarım(Industion); Tümevarımsal Yaklaşım(Inductive Approach)
+ve Tümevarımsal Gerçekçelendirme(Inductive Reasoning):
+
+. Bir at küme üzeinde gerçekleştirilen gözleme ilişkin bulguların,
+tüm küme için genellemesi
+	. Örneklemde Q oranında bireyin A özelliği bulunmaktadır
+	. Dolayısıyla:
+	.. Tüm popülasonda Q oranında birayin A özelliği bulunmaktadır.
+
+
+İstatiksel Tasım(Statistical Syllogism):
+. İstatistiksel bilgilerin tek bir bireye aie çıkarımda kullanılması
+	.Örnek: Fen Lisesi mezunlarının &90'ı üniversite sınavında ilk seferde
+		bir bölüme yerleşiyor. Ahmet de fen lisesi son sınıfta.
+		Demek ki Ahmet bu sene bir yere yerleşecek
+
+Modus Ponens(Öncülün doğrulanması): Birinci seviye kural çıkarımı
+	Örnek:
+		*1. ifade: bir açı 90 derece ile 180 derece arasında ise geniş açıdır.
+		*2. ifade: A açısı 120 derecedir.
+		*Çıkarım: Dolayısıyla, A açısı geniş açıdır.
+
+		Lise mantık derslerinden ufak bir hatırlatma
+		p = Q
+
+
+
+19. DAKİKADA KALINDI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

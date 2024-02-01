@@ -1,0 +1,80 @@
+Verilere İlişkin Olası Birtakım Sıkıntılar:
+
+Hatalı / Kirli Veriler
+. Kaydedilmemiş / Girilmemiş veriler
+	*Meslek = " "
+. Hatalı Girilmiş Veriler
+	*Maas = "-10"
+. Tutarsız Nitelik İsimleri
+	*Bir yerde "ad", başka yerde "isim",
+	*bir yerde "soyadı", başka yerde "soyismi",
+	*bir yerde "malzeme referans no", başka yerde "malzeme kayıt no"
+. Tutatsız Nitelik Değerleri:
+	*Bir yerde "yaş=30-40 arası", başka yerde doğum tarihi = 01.02.1970
+
+. Eksik Veri Kayıtlarının Nedenleri
+	*Veri toplandığı sırada bir nitelik değerinin lde edilememesi, bilinmemesi
+	*Veri toplandığı sırada bazı niteliklerin gerekliliğinin görülememesi
+	*insan, yazılım ya da donanım problemeleri
+	
+.Gürültülü (Hatalı) Veri Kayıtlarının Nedenleri
+	*Hatalı veri toplama gereçleri
+	*İnsan, yazılım ya da donanım problemleri
+	*Veri iletimi sırasında problemler
+
+. Tutarsız veri kayıtlarının nedenleri
+	*Verinin farklı kaynaklarda tutulması
+	*işlevsel bağımlılık kurallarına uyulmaması
+
+
+VERİYİ TANIMA VE TANIMLAMA:
+
+*Verinin merkezi eğilim özellikleri
+*verinin dağılım özellikleri
+*Verinin sayısal nitelikleri ve sıralanabilir değerleri
+*Merkezi eğilim, ortanca en büyük, en küçük veryans, sıkılık derecesi(frekans), aykırılık,
+dağılım fonksiyonu, yoğunluk fonksiyonu,...
+
+
+
+EKSİK VERİYİ TANIMLAMA:
+* Eksik nitelik değerleri olan kayıtların kullanılmaması / atılması
+* Eksik nitelik değerlerinin manuel olarak doldurulması
+* Eksik nitelik değerleri için global bir değişken kulanılması(null/bilinmiyor)
+* Eksik nitelik değerlerinin, o niteliğin ortalama değer ile doldurulması
+* Eksik nitelik değerlerinin aynı sınıfa ait kayıtların nitelik değerlerinin ortalaması
+ile doldurulması
+
+
+
+GÜRÜLTÜLÜ VERİ NASIL DÜZELTİLİR:
+* Bölütleme (segmentation)
+	. verinin sıralanması, eşit genişlik veya eşir derinlik ile bölünmesi
+* Kümeleme / Demetleme / Öbekleme
+	. aykırılık belirlenmesi
+*Eğri Uydurma
+	. verinin bir fonksiyona uydurularak gürültünün düzenlenmesi
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  

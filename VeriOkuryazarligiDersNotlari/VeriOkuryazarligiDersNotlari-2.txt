@@ -1,0 +1,71 @@
+VERİ BİLİMİ veya VERİ ANALİTİĞİ NEDİR?
+
+istastistik, gerçeklere dayalı bir bilim dalıdır.
+	Örneğin büste dair ölçünlere dayalı olarak söz konusu şahsın boyu kilosu ayakkaı numarası gibi
+değerli tahmin etmeye çalışır.
+	Önceden yeterince veri de varsa, elimizdeki büste dair ölçümlere dayalı olarak büstü yapılmış
+şahsa veya büste ilişkin olarak anomali tespiti yapabilir.(örneğin alın genişliği aşırı derecede
+büyük; ceya büst yanlışı yapılmış vb.)
+	Büstün ölçünlerine A ve B ırklarının antropometrik verilerine dayalı olarak büstün yapılmış olan 
+şahsın A ırkından mı B ırkından mı olmasının daha yüksek olduğunu tahmin etmeye çalışabilir
+büstün ölçümlerine ve genel toplum antropometrik verilerine dayalı olarak büstü yapılmış olan şahsın
+akromegali hastası olup olmadığını belirlemeye çalışabilir
+	büstün ölçümlerine ve büstü yaptığı iddia edilen heykeltraşın diğer eserlerinin özelliklerine 
+dayalı olarak büstün gerçekten de ilgili şahsın eseri olup olmadığını belirlemeye çalışır
+
+Veri Analitiğindeki 3 temel kavram:
+. Betimleyici Veri Analitiği: Mevcut durumun fotoğrafını çeker. Eldeki veriye bakarak ne söylediğini açıklar
+. Öngörücü Veri Analitiği: Veri değişimi eğilimlerini irdeleyerek gelecekte ne olacağını tahmin eder
+. Reçete Yazıcı Veri Analitiği: What-if senaryoları koşturarak bunlara ilişkin sonuçlar bulur
+
+
+Örnekler 1:
+- Betimleyici Veri Analitiği: X firması, 34 ayrı lokasyondaki şubesi ve 165 çalışanıyla 2019 yılında
+Y lira kar elde etmiştir.
+- Öngörücü Veri Analitiği: ilk 9 aydaki verilere dayalı olarak X firmasının 2020 yılındaki karının
+Z lira olacağı öngörülmektedir.
+- Reçete Yazıcı Veri Analitiği: X firması, A,B ve C lokasyonlarında bulunan ve verimliliği düşük
+olan şubelerini kapatıp, D,E ve F lokasyonlarında aynı büyüklükte 3 yeni Şube açarsa toplam çalışan
+sayısı sabit kalmak kaydıyla karlılık oranını %7 artırabilir
+
+Örnekler 2:
+* Betimleyici Veri Analitiği: Firmamızda 30 yaş altı personelin firmada ortalama çalışma süresi
+3 yıl, 30 yaş üstü 10.4 yıldır. Firmamızın personal yaş ortalaması 36.9'dur
+* Öngörücü Veri Analitiği: Mevcut verilere dayalı olarak firmamızın 5 yıl sonra personel yaş
+ortalaması 8.2 yıl artarak 45.1 olacaktır.
+* Reçete Yazıcı Veri Analitiği: 30 yaş altı personelin sirkülasyonunu azaltmak için çalışma
+usullerinin getirilmesi uygun olacaktır.
+
+
+Örnek 3:
+-Mevcut artık eğilimi devam ettiği takdirde kuraklığın 2030 yılında asya ülkelerinin %..'sinde 
+büyük sıkıntı oluşturacağı öngörülmektedir. (Öngörücü)
+
+-Yeşil gözün çekinik olmasından ötürü 20XX yılında yeşil gözlü insanların tüm nüfusa oranının
+milyonda birinin altına düşeceği öngörülmektedir. (öngörücü)
+
+-Tüm Dünya genelinde nüfus %..'sini kadınlar, %..'siini ise erkekler oluşturmaktadır.(Betimleyici)
+
+-Emniyet kemeri kullanımının %..'e çıkması halinde trafik kazalarında can kayıplarının %.. oranda
+azalacağı ön görülmektedir.(reçete yazıcı)
+
+-mevcut azalma eğilimi devame ettiği takdirde 2035 yılı itibası ile .. hastalığının tamamen ortadan
+kalkacağı Dünya sağlık Örgütü tarafından öngörülmektedir. (Öngörücü)
+
+-otoyollarda hız sınırının 130 km/s'den 120 km/s'e düşürülmesi halinde, trafik kazalarında %..
+oranında azalma olacağı Emniyet Genel Müdürlüğü tarafından öngörülmektedir. (Reçete Yazıcı)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
