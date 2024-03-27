@@ -1,0 +1,60 @@
+*zookeeper ile kafka aynı versiyon olmak zorunda
+
+zookeeper versiyon öğrenmek için:
+	echo "status" | nc localhost 2181 | head -n 1
+
+
+KAFKA Eklemek için:
+	export KAFKA_HOME="/opt/kafka/kafka_2.11-2.2.0" #sondaki sürümdür. yüklenecek sürüme göre değişebilir
+	export PATH="$PATH:${KAFKA_HOME}/bin"
+
+
+KAFKA her zaman açık olmalı, bunun için:
+	nohup kafka-server-start.sh /etc/kafka.properties 
+
+port dışarı açmak için firewall ayarı yapılmalı,
+	ufw enable
+	ufw allow 22
+	ufw allow 2181
+
+json tipinde veri göndermek:
+{"itemId":456789,"customerId":12345,"Item":"ayakkabi","price":100}
+
+topic oluşturmak:
+	kafka-topics.sh --create --zookeeper localhost:2181 --replication-factor 1 --partitions 3
+--topic test-second
+
+veri gönderme:
+	kafka-console-producer.sh --broker-list localhost:9092 --topi test-second 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
